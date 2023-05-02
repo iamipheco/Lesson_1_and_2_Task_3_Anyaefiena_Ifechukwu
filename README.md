@@ -13,7 +13,7 @@
 
 - ensure you have node js installed in your machine
 
-- open your terminal and run "git clone "
+- open your terminal and run "git clone git@github.com:iamipheco/Lesson_1_and_2_Task_3_Anyaefiena_Ifechukwu.git"
 
 - run "npm install"
 
